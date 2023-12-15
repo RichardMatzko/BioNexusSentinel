@@ -10,6 +10,11 @@
 ### **BioNexusSentinel**<br>
 is a nascent, ergonomic, experimental, research software for reaction network exploration, with a cytohistological genetic RNA-Seq encyclopedia component, featuring a dataset preprocessed with R. It was developed to explore, and potentially manipulate, bioinformatics data for ongoing multicellular simulation research (see also https://github.com/RichardMatzko/UnrealMulticell3D.git and https://www.mdpi.com/2073-4425/14/1/154). It is capable of loading SBML files for evaluation and visualization and can export visualizations in various format. Key features include network visualizations and tables, an experimental kinetics parameterization mechanism and time course simulation, a cytohistological genetics explorer and a biochemical model search engine for downloading and organizing models from Reactome. Pending successful publication, the link to the article will be available here, along with the R code for the data manipulations for the preprocessed dataset. The readily transformed dataset is depended on and distributed with this repository.
 
+<div align="center">
+    ![BioNexusSentinel Demo](BioNexusSentinel/BioNexusSentinel_Demo.gif)
+</div>
+
+
 ---
 
 ### **VERY IMPORTANT**<br>
