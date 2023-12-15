@@ -18,7 +18,11 @@ Created with Windows 11.
 ---
 
 ### **LICENSE**<br>
-Creative Commons Attribution-NonCommercial (CC BY-NC) license
+BioNexusSentinel is provided under Creative Commons Attribution-NonCommercial (CC BY-NC) license, including all assets unless mentioned below.
+
+SBO_OWL is available from https://github.com/EBI-BioModels/SBO under The Artistic License 2.0 and is included in BioNexusSentinel assets.
+
+Reactome data follows the Reactome license agreement (https://reactome.org/license), specifically ReactomePathways.txt (obtained from https://reactome.org/download/current/ReactomePathways.txt) and ReactomePathwaysRelation.text (derived from https://reactome.org/download/current/ReactomePathwaysRelation.txt). Naturally, SBML models downloaded through BioNexusSentinel from Reactome follow these license agreements.
 
 ---
 
