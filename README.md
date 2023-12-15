@@ -15,8 +15,10 @@ is a nascent, ergonomic, experimental, research software for reaction network ex
 ### **VERY IMPORTANT**<br>
 Upon downloading the repository, please also download the 309 MB zipped expression data (too large for GitHub) from https://drive.google.com/file/d/1C4afBRIt4PArM1X4jlnVw_a1To5UtHVH/view?usp=drive_link and extract the folders Cell_Specific_Expression and ExpressionByGeneSymbol directly into the assets directory from HPA_EXPRESSION_DATA_TRANSFORMED.zip.
 
+---
+
 ### **REQUIREMENTS**<br>
-Created with Windows 11.
+Created with Windows 11 with .NET Framework 4.7.2. You probably won't need to download .NET Framework separately as it should run out of the box with Windows 11 (and probably 10) installations.
 
 ---
 
@@ -36,6 +38,15 @@ It is recommended to read this entire page before use. Use this experimental sof
 
 ---
 
+### **SUMMARY OF INSTALLATION INSTRUCTIONS**<br>
+1. Acquire HPA_EXPRESSION_DATA_TRANSFORMED.zip from https://drive.google.com/file/d/1C4afBRIt4PArM1X4jlnVw_a1To5UtHVH/view?usp=drive_link.
+2. Download BioNexusSentinel repository.
+3. Extract Cell_Specific_Expression and ExpressionByGeneSymbol from HPA_EXPRESSION_DATA_TRANSFORMED.zip.
+4. Place Cell_Specific_Expression and ExpressionByGeneSymbol into BioNexusSentinel/Assets
+5. Read ADDITIONAL INSTALLATION PREREQUISITES for full functionality.
+6. Launch BioNexusSentinel via BioNexusSentinel.exe from BioNexusSentinel/Releases/BioNexusSentinel.exe
+--
+
 ### **QUICK START**<br>
 Please read the VERY IMPORTANT section above for instructions on how to acquire the required genetics data. Download the repository and navigate to "Release" folder and double click BioNexusSentinel.exe. Please note certain functions won't work without additional installs (see ADDITIONAL INSTALLATION PREREQUISITES).
 
@@ -51,7 +62,7 @@ For full functionality:
 	->pip install libsbml
 	->pip install python-libsbml
 	->pip install numpy
-
+ 
  ---
 
 ### **TENTATIVE FEATURES**<br>
