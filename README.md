@@ -1,7 +1,8 @@
 # BioNexusSentinel
-A research biochemical network explorer and cytohistological encyclopedia for Windows.
-<p align="center">
-  <img src="BioNexusSentinel/BioNexusSentinel.png" alt="BioNexus Sentinel Image" width="600" height="600"/>
+<p align="left">
+  <img src="BioNexusSentinel/BioNexusSentinel.png" alt="BioNexus Sentinel Image" width="200" height="200"/>
 </p>
+A research biochemical network explorer and cytohistological encyclopedia for Windows.
+
 
 
