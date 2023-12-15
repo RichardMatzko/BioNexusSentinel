@@ -1,5 +1,7 @@
-BioNexusSentinel is distributed under Creative Commons Attribution-NonCommercial (CC BY-NC) license, including all assets unless mentioned below.
+BioNexusSentinel is provided under Creative Commons Attribution-NonCommercial (CC BY-NC) license, including all assets unless mentioned below.
 
 SBO_OWL is available from https://github.com/EBI-BioModels/SBO under The Artistic License 2.0 and is included in BioNexusSentinel assets.
 
 Reactome data follows the Reactome license agreement (https://reactome.org/license), specifically ReactomePathways.txt (obtained from https://reactome.org/download/current/ReactomePathways.txt) and ReactomePathwaysRelation.text (derived from https://reactome.org/download/current/ReactomePathwaysRelation.txt). Naturally, SBML models downloaded through BioNexusSentinel from Reactome follow these license agreements.
+
+Human Protein Atlas data is given following novel alteration to its structure and hence falls under the BioNexusSentinel licensing as stated above. The original data was supplied under https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 DEED license.
