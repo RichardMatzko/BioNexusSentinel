@@ -17,7 +17,7 @@ Created with Windows 11.
 
 ---
 
-**LICENSE**<br>
+### **LICENSE**<br>
 Creative Commons Attribution-NonCommercial (CC BY-NC) license
 
 ---
