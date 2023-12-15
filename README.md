@@ -57,7 +57,7 @@ For full functionality:<br>
 ->GraphViz for network graphics (https://graphviz.org/download/). BNS was built alongside version 8.0.5.<br>
 ->BioLayout 3.4 if you wish for 3D network graphics external visualization (https://github.com/biolayout/biolayout/releases)<br>
 ->Python3 installation (https://www.python.org/downloads/)<br>
-->Python libraries should be installed for the experimental network solver solution. This should be installed alongside your correct interpreter path. It is possible to do within an IDE. Universally you can check your active Python interpreter path via (Get-Command python).Source in Windows PowerShell. Then install via:<br>
+->Python libraries should be installed for the experimental network solver solution. This should be installed alongside your correct interpreter path. It is possible to do within a Python IDE such as VS Code. Universally you can check your active Python interpreter path via (Get-Command python).Source in Windows PowerShell. Then install via:<br>
 	->pip install tellurium<br>
 	->pip install libsbml<br>
 	->pip install python-libsbml<br>
