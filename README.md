@@ -8,9 +8,12 @@
 ---
 
 ### **BioNexusSentinel**<br>
-is a nascent, ergonomic, experimental, research software for reaction network exploration, with a cytohistological genetic encyclopedia component, featuring a dataset preprocessed with R. It was developed to explore, and potentially manipulate, bioinformatics data for ongoing multicellular simulation research. It is capable of loading SBML files for evaluation and visualization and can export visualizations in various format. Key features include network visualizations and tables, an experimental kinetics parameterization mechanism and time course simulation, a cytohistological genetics explorer and a biochemical model search engine for downloading and organizing models from Reactome. Pending successful publication, the link to the article will be available here, along with the R code for the data manipulations for the preprocessed dataset, albeit the transformed dataset is depended on and distributed with this repository.
+is a nascent, ergonomic, experimental, research software for reaction network exploration, with a cytohistological genetic RNA-Seq encyclopedia component, featuring a dataset preprocessed with R. It was developed to explore, and potentially manipulate, bioinformatics data for ongoing multicellular simulation research. It is capable of loading SBML files for evaluation and visualization and can export visualizations in various format. Key features include network visualizations and tables, an experimental kinetics parameterization mechanism and time course simulation, a cytohistological genetics explorer and a biochemical model search engine for downloading and organizing models from Reactome. Pending successful publication, the link to the article will be available here, along with the R code for the data manipulations for the preprocessed dataset, albeit the transformed dataset is depended on and distributed with this repository.
 
 ---
+
+### **VERY IMPORTANT**<br>
+Upon downloading the repository, please also download (309 MB) the zipped the expression data (too large for GitHub) from https://drive.google.com/file/d/1C4afBRIt4PArM1X4jlnVw_a1To5UtHVH/view?usp=drive_link and extract the folders Cell_Specific_Expression and ExpressionByGeneSymbol directly into the assets directory from HPA_EXPRESSION_DATA_TRANSFORMED.zip.
 
 ### **REQUIREMENTS**<br>
 Created with Windows 11.
@@ -32,7 +35,7 @@ It is recommended to read this entire page before use. Use this experimental sof
 ---
 
 ### **QUICK START**<br>
-Download repository and navigate to "Release" folder and double click BioNexusSentinel.exe. Please note certain functions won't work without additional installs.
+Please read the VERY IMPORTANT section above for instructions on how to acquire the required genetics data. Download the repository and navigate to "Release" folder and double click BioNexusSentinel.exe. Please note certain functions won't work without additional installs (see ADDITIONAL INSTALLATION PREREQUISITES).
 
 ---
 
