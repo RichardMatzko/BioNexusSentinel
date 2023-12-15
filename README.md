@@ -9,13 +9,11 @@ BioNexusSentinel is a nascent, ergonomic, experimental, research software for re
 
 REQUIREMENTS: Created with Windows 11.
 
-VERY IMPORTANT: Due to the large number of files for upload to GitHub, you must manually unzip Cell_Specific_Expression.zip and ExpressionByGeneSymbol.zip. Please ensure that you do not have a duplicate layer of folders Cell_Specific_Expression and ExpressionByGeneSymbol. There should only be a single folder directory layer for each (sometimes unzipping can cause duplicate folder repeats if done incorrectly).
-
 LICENSE: Creative Commons Attribution-NonCommercial (CC BY-NC) license
 
 DISCLAIMER: It is recommended to read this entire page before use. Use this experimental software at your own risk. This software performs certain disk operations, including (but not necessarily exclusively) saving output files to the project folder and saving in documents to a folder it creates called BioNexusSentinel. This software has no intentional designs to collect any of your data and is designed to be as local to your machine as possible, although it makes API calls to access online bioinformatics resources, particularly from the Reactome database. It has been tested and used extensively, but still no guarantee will be given if you choose to use it. As the work is currently under development, certain features may work with limited effectiveness. Temporary files used in processing are saved to the executable folder subfolder "Temp" and these will need to be manually cleared. See also TENTATIVE FEATURES below.
 
-QUICK START (Please note certain functions won't work without additional installs): Download repository, as above please ensure you have unzipped Cell_Specific_Expression.zip and ExpressionByGeneSymbol.zip. Navigate to "Release" folder and double click BioNexusSentinel.exe.
+QUICK START (Please note certain functions won't work without additional installs): Download repository and navigate to "Release" folder and double click BioNexusSentinel.exe.
 
 INSTALLATION PREREQUISITES for full functionality
 ->GraphViz for network graphics (https://graphviz.org/download/). BNS was built alongside version 8.0.5.
