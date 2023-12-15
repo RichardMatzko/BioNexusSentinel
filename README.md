@@ -13,7 +13,7 @@ is a nascent, ergonomic, experimental, research software for reaction network ex
 ---
 
 ### **VERY IMPORTANT**<br>
-Upon downloading the repository, please also download (309 MB) the zipped the expression data (too large for GitHub) from https://drive.google.com/file/d/1C4afBRIt4PArM1X4jlnVw_a1To5UtHVH/view?usp=drive_link and extract the folders Cell_Specific_Expression and ExpressionByGeneSymbol directly into the assets directory from HPA_EXPRESSION_DATA_TRANSFORMED.zip.
+Upon downloading the repository, please also download the 309 MB zipped expression data (too large for GitHub) from https://drive.google.com/file/d/1C4afBRIt4PArM1X4jlnVw_a1To5UtHVH/view?usp=drive_link and extract the folders Cell_Specific_Expression and ExpressionByGeneSymbol directly into the assets directory from HPA_EXPRESSION_DATA_TRANSFORMED.zip.
 
 ### **REQUIREMENTS**<br>
 Created with Windows 11.
