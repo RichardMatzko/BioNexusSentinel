@@ -46,6 +46,6 @@ For full functionality:
  ---
 
 ### **TENTATIVE FEATURES**<br>
-Not all experimental features described in the publications are included in this release, for the sake of a smoother more complete experience. A very large network sometimes may have problems loading. It is recommended that if the initial visualization fails, you should apply pruning to the network to zero in on specific reactions or a range of reactions. Temporary files are stored in. You should be aware that the autokinetics and simulation features are tentative. It is very common that SBML models find incompatibility. System inputs and outputs needs review on the entry screen, since some system "inputs" currently overlap with dual reactant/products.
+Not all experimental features described in the publication are included in this release for the sake of a smoother more complete experience. A very large network sometimes may have problems loading. It is recommended that if the initial visualization fails, you should apply pruning to the network to zero in on specific reactions or a range of reactions. Temporary files are stored in. You should be aware that the autokinetics and simulation features are tentative. It is very common that SBML models find incompatibility. System inputs and outputs needs review on the entry screen, since some system "inputs" currently overlap with dual reactant/products.
 
 ---
