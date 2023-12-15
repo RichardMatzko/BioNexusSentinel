@@ -45,7 +45,8 @@ It is recommended to read this entire page before use. Use this experimental sof
 4. Place Cell_Specific_Expression and ExpressionByGeneSymbol into BioNexusSentinel/Assets
 5. Read ADDITIONAL INSTALLATION PREREQUISITES for full functionality.
 6. Launch BioNexusSentinel via BioNexusSentinel.exe from BioNexusSentinel/Releases/BioNexusSentinel.exe
---
+
+---
 
 ### **QUICK START**<br>
 Please read the VERY IMPORTANT section above for instructions on how to acquire the required genetics data. Download the repository and navigate to "Release" folder and double click BioNexusSentinel.exe. Please note certain functions won't work without additional installs (see ADDITIONAL INSTALLATION PREREQUISITES).
