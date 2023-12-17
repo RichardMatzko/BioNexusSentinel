@@ -20,7 +20,7 @@ Upon downloading the repository, please also download the 309 MB zipped expressi
 ---
 
 ### **REQUIREMENTS**<br>
-Created with Windows 11 with .NET Framework 4.7.2. You probably won't need to download .NET Framework separately as it should run out of the box with Windows 11 (and probably 10) installations. Naturally, performance will depend on your hardware. Development was on i7 and i9 processors.
+Created with Windows 11 with .NET Framework 4.7.2. You probably won't need to download .NET Framework separately as it should run out of the box with Windows 11 (and probably 10) installations. Naturally, performance will depend on your hardware. Development was on i7 and i9 Intel processors, presently without multithreading. RAM use is quite low.
 
 ---
 
