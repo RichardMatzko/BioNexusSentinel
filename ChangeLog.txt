@@ -5,7 +5,7 @@
 
 ### Fixed
 
-## [1.0.0] - 2023-12-24
+## [1.0.1] - 2023-12-24
 ### Changed
 - BioNexusSentinel.exe updated. Improved readability of lower left information section in GeneExpressionProfiler::AnalysisResults.
 
