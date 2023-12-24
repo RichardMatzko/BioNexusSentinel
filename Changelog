@@ -1,0 +1,12 @@
+# Changelog
+
+## [1.2.0] - 2023-12-25
+### Added
+- Feature A to enhance user experience (#123)
+- Localization support for French and Spanish (#124)
+
+### Changed
+- Updated algorithm for faster processing (#130)
+
+### Fixed
+- Issue with login under certain conditions (#128)
