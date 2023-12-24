@@ -1,4 +1,4 @@
-# Changelog
+# Changelog YYYY-MM_DD
 
 ## [1.0.0] - 2023-12-24
 ### Added
@@ -6,3 +6,6 @@
 ### Changed
 
 ### Fixed
+
+## [1.0.0] - 2023-12-18
+- Initial release
