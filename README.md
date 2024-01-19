@@ -17,6 +17,8 @@ is a nascent, ergonomic, experimental, research software for reaction network ex
 ### **VERY IMPORTANT**<br>
 Upon downloading the repository, please also download the 309 MB zipped expression data (too large for GitHub) from https://drive.google.com/file/d/1C4afBRIt4PArM1X4jlnVw_a1To5UtHVH/view?usp=drive_link and extract the folders Cell_Specific_Expression and ExpressionByGeneSymbol directly into the assets directory from HPA_EXPRESSION_DATA_TRANSFORMED.zip.
 
+Also, the reaction networks require GraphViz to be installed, please see ADDITIONAL INSTALLATION PREREQUISITES.
+
 ---
 
 ### **OPERATING SYSTEM and HARDWARE REQUIREMENTS**<br>
@@ -58,6 +60,7 @@ Please read the VERY IMPORTANT section above for instructions on how to acquire 
 ### **ADDITIONAL INSTALLATION PREREQUISITES**<br>
 For full functionality:<br>
 ->GraphViz for network graphics (https://graphviz.org/download/). BNS was built alongside version 8.0.5.<br>
+	->TROUBLESHOOTING: If when loading models you get an error about being unable to locate a file, please ensure GraphViz is correctly installed at C:\Program Files\Graphviz\bin and that this path is added to user or system "Environment Variables" settings correctly under Path in Windows. You can confirm that C:\Program Files\Graphviz\bin is in your environment path settings by running echo %PATH% via a command prompt.<br>
 ->BioLayout 3.4 if you wish for 3D network graphics external visualization (https://github.com/biolayout/biolayout/releases)<br>
 ->Python3 installation (https://www.python.org/downloads/)<br>
 ->Python libraries should be installed for the experimental network solver solution. This should be installed alongside your correct interpreter path. It is possible to do within a Python IDE such as VS Code. Universally you can check your active Python interpreter path via "(Get-Command python).Source" in Windows PowerShell. Then install via Windows Powershell with:<br>
