@@ -60,14 +60,14 @@ Please read the VERY IMPORTANT section above for instructions on how to acquire 
 ### **ADDITIONAL INSTALLATION PREREQUISITES**<br>
 For full functionality:<br>
 ->GraphViz for network graphics (https://graphviz.org/download/). BNS was built alongside version 8.0.5.<br>
-	<tb></tb>->TROUBLESHOOTING: If when loading models you get an error about being unable to locate a file, please ensure GraphViz is correctly installed at C:\Program Files\Graphviz\bin and that this path is added to user or system "Environment Variables" settings correctly under Path in Windows. You can confirm that C:\Program Files\Graphviz\bin is in your environment path settings by running echo %PATH% via a command prompt.<br>
+	&nbsp;->TROUBLESHOOTING: If when loading models you get an error about being unable to locate a file, please ensure GraphViz is correctly installed at C:\Program Files\Graphviz\bin and that this path is added to user or system "Environment Variables" settings correctly under Path in Windows. You can confirm that C:\Program Files\Graphviz\bin is in your environment path settings by running echo %PATH% via a command prompt.<br>
 ->BioLayout 3.4 if you wish for 3D network graphics external visualization (https://github.com/biolayout/biolayout/releases)<br>
 ->Python3 installation (https://www.python.org/downloads/)<br>
 ->Python libraries should be installed for the experimental network solver solution. This should be installed alongside your correct interpreter path. It is possible to do within a Python IDE such as VS Code. Universally you can check your active Python interpreter path via "(Get-Command python).Source" in Windows PowerShell. Then install via Windows Powershell with:<br>
-	->pip install tellurium<br>
-	->pip install libsbml<br>
-	->pip install python-libsbml<br>
-	->pip install numpy<br>
+	&nbsp;->pip install tellurium<br>
+	&nbsp;->pip install libsbml<br>
+	&nbsp;->pip install python-libsbml<br>
+	&nbsp;->pip install numpy<br>
  
  ---
 
