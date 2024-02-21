@@ -5,7 +5,7 @@
 
 ### Fixed
 
-# Changelog 2024-02-21
+#  [1.0.2] - 2024-02-21
 ### Added
 - Labels added to GeneExpressionProfiler to enhance usage intuition.
 
