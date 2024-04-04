@@ -8,7 +8,7 @@
 ---
 
 ### **Associated Publication**<br>
-The research behind this platform was detailed at Bioinformatics Advances as published by Oxford University Press.
+The research behind this platform was detailed at Bioinformatics Advances as published open-access by Oxford University Press.
 https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae046/7632747
 
 ---
